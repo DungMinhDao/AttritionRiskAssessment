@@ -1,4 +1,4 @@
-# A DYNAMIC RISK ASSESsMENT SYSTEM FOR CLIENTS ATTRITION
+# A DYNAMIC RISK ASSESSMENT SYSTEM FOR CLIENTS ATTRITION
 ## Overview
 This is the final project of Machine Learning DevOps Engineer Nanodegree Program.
 
